@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">El Arcoiris</string>
+    <string name="intro">Привет, мой юный друг, вставший на путь познания испанского языка!\n
+        Это приложение поможет тебе освоить названия цветов радуги.\n
+        Кстати, ты знаешь, как по испански будет радуга?\n
+        Ответ скрыт в названии приложения =)\n
+        Радуга по испански - arcoíris\n
+        Приступим к изучению?\n
+        Если готов, то кликай на кнопку внизу ;-)\n</string>
+    <string name="title_activity_second_">Second_Activity</string>
+    <string name="rojo">Rojo</string>
+    <string name="naranja">Naranja</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="verde">Verde</string>
+    <string name="cian">Cian</string>
+    <string name="azul">Azul</string>
+    <string name="vialeta">Violeta</string>
+</resources>
